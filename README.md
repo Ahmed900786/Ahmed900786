@@ -1,4 +1,4 @@
-<img class="center" alt="Coding" width=500 height=200  src="https://cdn.dribbble.com/users/143861/screenshots/2951104/immuta_philanthropy_dribbble.gif">
+<img class="center" alt="Coding" width=700 height=200  src="https://cdn.dribbble.com/users/143861/screenshots/2951104/immuta_philanthropy_dribbble.gif">
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
