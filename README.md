@@ -1,7 +1,7 @@
 <img class="center" alt="Coding" width=900 height=200  src="https://cdn.dribbble.com/users/143861/screenshots/2951104/immuta_philanthropy_dribbble.gif">
 
 
-<img align="right" alt="Coding" width="700" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*IjwqslkWZDHTMK9Y.gif">
+<img align="right" alt="Coding" width=700 src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*IjwqslkWZDHTMK9Y.gif">
 # My LinkedIn Page:
 https://www.linkedin.com/in/ahmed-baimin-11a96b313/
 
