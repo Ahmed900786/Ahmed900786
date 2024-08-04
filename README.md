@@ -1,7 +1,7 @@
 <img class="center" alt="Coding" width=900 height=200  src="https://cdn.dribbble.com/users/143861/screenshots/2951104/immuta_philanthropy_dribbble.gif">
 
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwakeupcoders.medium.com%2Fpython-programming-fundamentals-44198e7d62d4&psig=AOvVaw1DDHNfdf2MwYnsh6vfp4wg&ust=1722859518347000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPj40fml24cDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*IjwqslkWZDHTMK9Y.gif">
 # My LinkedIn Page:
 https://www.linkedin.com/in/ahmed-baimin-11a96b313/
 
