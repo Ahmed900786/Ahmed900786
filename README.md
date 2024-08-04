@@ -1,6 +1,5 @@
 [![MasterHead]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2951104-Data-Science-Philanthropy&psig=AOvVaw3yEulBT536J9JfNFqOxqCg&ust=1722853121524000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjclZGO24cDFQAAAAAdAAAAABAE")] (https://rishavchanda.io)
 
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ahmed Baimin) 
